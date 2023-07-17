@@ -1,5 +1,5 @@
 ---
-en:
+ko:
   concerns:
     image_uploads:
       too_long: 파일 이름이 너무 깁니다. - 최대값은 %{max}자 입니다.
