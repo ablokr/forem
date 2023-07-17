@@ -1,0 +1,6 @@
+---
+en:
+  concerns:
+    image_uploads:
+      too_long: 파일 이름이 너무 깁니다. - 최대값은 %{max}자 입니다.
+      is_not_file: 잘못된 파일 형식입니다. 올바른 이미지를 업로드하세요.
